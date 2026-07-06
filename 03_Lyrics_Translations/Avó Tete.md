@@ -93,9 +93,8 @@ Released in the early 1980s, this song exemplifies a major thematic shift in Sem
 ---
 
 ## 3. Musical Architecture
-* **Genre/Rhythm:** `[[Semba]]`
-* **Instrumentation:** (e.g., Heavy use of the dikanza driving the 6/8 rhythm)
-* **Sampled/Covered By:** (Has a modern Kuduro or Kizomba artist remixed this?)
+* **Genre/Rhythm:** [[Semba]]
+* **Instrumentation:** Guitar is very prominent, dikanza is also used
 
 ## 4. Sources & Date Discrepancy
 
