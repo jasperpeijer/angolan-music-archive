@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "79a63b10e5dfbdba",
+    "type": "split",
+    "children": [
+      {
+        "id": "761c2280b0392b67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "908239958c487e75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Core_Entities/Albums/Ngueza N'dindi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ngueza N'dindi"
+            }
+          },
+          {
+            "id": "23acce8fe0b74e60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Core_Entities/Artists_Bands/Jivago.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jivago"
+            }
+          },
+          {
+            "id": "462a9634f2fc4144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Meta/TODO List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO List"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13f15e82eb7b47e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4328b99a7c656618",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92260cb4acc4a89c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a059af7ebf939cfa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4e6bf790bb003276",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5046a32288160a29",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9e3bbc6c00b8193",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6adebbeba935d4bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_Meta/Template_Lyrics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Template_Lyrics"
+            }
+          },
+          {
+            "id": "f43703449556b387",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_Meta/Template_Lyrics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Template_Lyrics"
+            }
+          },
+          {
+            "id": "be58a871298b9b38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d2eb1d49f3ad00a8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cd3bcc848665613b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_Meta/Template_Lyrics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Template_Lyrics"
+            }
+          },
+          {
+            "id": "dc24e3c438b364fa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "23acce8fe0b74e60",
+  "lastOpenFiles": [
+    "Avô Teté.md",
+    "02_Core_Entities/Artists_Bands/Jivago.md",
+    "00_Meta/Template_Era.md",
+    "03_Lyrics_Translations/Avó Tete.md",
+    "00_Meta/TODO List.md",
+    "02_Core_Entities/Albums/Ngueza N'dindi.md",
+    "Album Title.md",
+    "Song Title.md",
+    "Untitled.md",
+    "02_Core_Entities/Albums/Kiauaba!...md",
+    "Artist.md",
+    "02_Core_Entities/Albums",
+    "00_Meta/Template_Album.md",
+    "03_Lyrics_Translations/Jivago",
+    "00_Meta/Template_Artist.md",
+    "00_Meta/Template_Lyrics.md",
+    "00_Meta/Template_Source.md",
+    "00_Meta/Gemini Notes.md",
+    "03_Lyrics_Translations/Portuguese",
+    "03_Lyrics_Translations/Kimbundu",
+    "02_Core_Entities/Instruments_Geography",
+    "02_Core_Entities/Eras_History",
+    "02_Core_Entities/Genres_Movements",
+    "02_Core_Entities/Artists_Bands",
+    "01_Sources/Documentaries_Videos",
+    "01_Sources/Media_Interviews",
+    "Welcome.md"
+  ]
+}

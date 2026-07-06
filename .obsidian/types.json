@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "artist": "text",
+    "album": "multitext",
+    "source_lyrics": "text",
+    "source_translation": "text"
+  }
+}
