@@ -28,22 +28,32 @@ primary_genres:
 
 *Link every song name using double brackets to build your database relations. If you haven't created the lyric note yet, the double brackets will create a "stub" link waiting for you.*
 
-| Track # | Title (Link to Lyric Note) | Genre | Primary Language | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | `[[Song_Note_1]]` | `[[Semba]]` | Kimbundu | Processed |
-| 2 | `[[Song_Note_2]]` | `[[Kizomba]]` | Portuguese | `#todo/transcribe-pt` |
-| 3 | `[[Song_Note_3]]` | | | `#todo/find-audio` |
+| Track # | Title (Link to Lyric Note)                      | Genre     | Primary Language | Status        |
+| :------ | :---------------------------------------------- | :-------- | :--------------- | :------------ |
+| 1       | [[Ngana Burguês]]                               |           |                  | Not Processed |
+| 2       | [[Vou Morrar Mais Aonde]]                       |           |                  | Not Processed |
+| 3       | [[Suete Kuna]]                                  |           |                  | Not Processed |
+| 4       | [[Luminga Dyá Chico]]                           |           |                  | Not Processed |
+| 5       | [[Ramiro]]                                      | [[Semba]] | Portuguese       | In Progress   |
+| 6       | [[Choramos Gaby]]                               |           |                  | Not Processed |
+| 7       | [[Mano António]]                                |           |                  | Not Processed |
+| 8       | [[Avó Tete]]                                    | [[Semba]] | Kimbundu         | Processed     |
+| 9       | [[Katula Hipota Ku Messu]]                      |           |                  | Not Processed |
+| 10      | [[Ndikuete Ongava]]                             |           |                  | Not Processed |
+| 11      | [[Choramos Gaby\|Choramos Gaby (Instrumental)]] |           |                  | Not Processed |
 
 ---
 
 ## 3. Aesthetic & Cultural Impact
-* **Album Art:** (Describe the cover. Angolan vinyl covers from the 70s are iconic pieces of visual art. Does it feature political imagery? Traditional dress?)
-* **Public Reception:** (Was it censored? Was it a massive hit in the musseques?)
+### Album Art:
+ ![[Pasted image 20260707214522.png]]
+ 
+### Public Reception:
+
+(Was it censored? Was it a massive hit in the musseques?)
 
 ---
 
-## 4. Source Ledger
-*Track where you found the tracklist, release year, and liner notes.*
+## 4. Sources
 
-*   **Discography Source:** (e.g., Discogs link, or `[[Citation_Key_1]]`)
-*   **Liner Notes Translated From:** `[[Source_Note]]`
+*   **Discography Source:** https://www.discogs.com/release/18393655-Jivago-Kiauaba

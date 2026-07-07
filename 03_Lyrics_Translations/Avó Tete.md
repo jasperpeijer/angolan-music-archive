@@ -25,7 +25,7 @@ tags:
 ---
 
 ## 1. Context & Linguistic Significance
-Released in the early 1980s, this song exemplifies a major thematic shift in Semba. While the 1960s and 1970s relied on heavy, covert political resistance against colonial rule, 1980s Semba often pivoted to vibrant, comedic storytelling about the daily social dynamics and moral tensions inside Luanda's musseques. It captures a specific moment of cultural friction where traditional elder expectations collide with modern, urban behaviors.
+Released in the early 1980s, this song exemplifies a major thematic shift in Semba. While the 1960s and 1970s relied on heavy, covert political resistance against colonial rule, 1980s Semba often pivoted to vibrant, comedic storytelling about the daily social dynamics and moral tensions inside Luanda's musseques. It captures a specific moment of cultural friction where traditional elder expectations collide with modern, urban behaviors ([[Alves_2016_Oh_Muxima|Alves, 2016]]) ([[Alves_2013_Musicalidade_Politica|Alves, 2013]]) ([[Silva_1999_Historias_da_Musica_em_Angola|Silva, 1999]]).
 
 * **Grammar & Syntax:** The lyrics prominently feature the Kimbundu plural imperative suffix **-enu**, used to give commands to a group. Words like _Kwatenu_ (from _kukwata_, to grab) and _Bundenu_ (from _kubunda_, to work/dance) act as direct, physical instructions to the crowd, blurring the line between the storyteller and the audience.
 * **Code-Switching & Lexical Borrowing:** Rather than alternating entirely between Portuguese and Kimbundu sentences, Jivago heavily employs "Kimbundu-ized" Portuguese loanwords. He takes Portuguese vocabulary and forces it into Kimbundu phonology and morphology—_calças_ becomes _kalasawe_, _cavalheiro_ becomes _kavalheiro_, and _pintar_ becomes _pindala_. This linguistic blending perfectly mirrors the thematic clash of the song itself: Grandma Teté is taking modern, European urban concepts (trousers, paid escorts, chemical hair dye) and forcefully dragging them into the traditional Kimbundu sphere.
@@ -101,9 +101,9 @@ Released in the early 1980s, this song exemplifies a major thematic shift in Sem
 * [[Muzikifan_Angola_Archive|Muzikifan]]: Cites the song/hit year as 1984. 
 * [[Jornal_o_Guardio_2020_Jivago_Obituary|Jornal o Guardio]]: Cites the timeline as Jivago joining Fenomenal in 1983, recording the song shortly after.
 * [[Geledes_2014_Panos_Africanos|Geledes]]: Cites that it was originally more common for older people to wear panos.
+* [[Alves_2016_Oh_Muxima|Alves (2016)]], [[Alves_2013_Musicalidade_Politica|Alves, (2013)]], and [[Silva_1999_Historias_da_Musica_em_Angola|Silva (1999)]]: Cite the context of Angolan music during colonial times (before the 80s).
 * #todo/read-and-cite-moorman-source-on-transition-from-politics-to-comedic-lyrics 
 * #todo/verify-fact - Try to find a scan of the original Fenomenal vinyl pressing to see if 1983 or 1984 is printed on the label.
-* #todo/read-papers
 
 ## 5. Notes
 
