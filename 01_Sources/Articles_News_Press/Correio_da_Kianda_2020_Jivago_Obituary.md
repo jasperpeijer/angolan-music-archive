@@ -1,4 +1,3 @@
-
 ---
 # ENTITY: SOURCE
 id: source_correiodakianda_2020_jivago_obituary

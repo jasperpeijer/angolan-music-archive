@@ -1,4 +1,3 @@
-
 ---
 # ENTITY: SOURCE
 id: source_jornaloguardio_2020_jivago_obituary

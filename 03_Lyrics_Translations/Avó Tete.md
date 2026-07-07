@@ -99,7 +99,8 @@ Released in the early 1980s, this song exemplifies a major thematic shift in Sem
 ## 4. Sources & Date Discrepancy
 
 * [[Muzikifan_Angola_Archive|Muzikifan]]: Cites the song/hit year as 1984. 
-* [[JornalOGuardio_2020_JivagoObituary|Jornal o Guardio]]: Cites the timeline as Jivago joining Fenomenal in 1983, recording the song shortly after.
+* [[Jornal_o_Guardio_2020_Jivago_Obituary|Jornal o Guardio]]: Cites the timeline as Jivago joining Fenomenal in 1983, recording the song shortly after.
+* [[Geledes_2014_Panos_Africanos|Geledes]]: Cites that it was originally more common for older people to wear panos.
 * #todo/read-and-cite-moorman-source-on-transition-from-politics-to-comedic-lyrics 
 * #todo/verify-fact - Try to find a scan of the original Fenomenal vinyl pressing to see if 1983 or 1984 is printed on the label.
 * #todo/read-papers

@@ -56,9 +56,9 @@ regional_dialect: "Luanda Kimbundu"
 ---
 
 ## 5. Source Ledger
-*   [[JornalOGuardio_2020_JivagoObituary|Jornal o Guardio]] - [Morreu músico Jivago (Oct 1, 2020)](https://jornaloguardiao.com/2020/10/01/morreu-musico-jivago/) 
+*   [[Jornal_o_Guardio_2020_Jivago_Obituary|Jornal o Guardio]] - [Morreu músico Jivago (Oct 1, 2020)](https://jornaloguardiao.com/2020/10/01/morreu-musico-jivago/) 
     * *Obituary confirming birth year, early bands (Bentiaba Show, Fenomenal), and recording dates of his major hits.*
-*   [[CorreioDaKianda_2020_JivagoObituary|Correio da Kianda]] - [Morreu o músico Jivago (Oct 1, 2020)](https://correiokianda.info/morreu-o-musico-jivago/) 
+*   [[Correio_da_Kianda_2020_Jivago_Obituary|Correio da Kianda]] - [Morreu o músico Jivago (Oct 1, 2020)](https://correiokianda.info/morreu-o-musico-jivago/) 
     * *Corroborates his passing at Hospital do Prenda and the 1989 RNA live recording of Ramiro.*
-*   [[PlatinaLine_2020_JivagoObituary|Platina Line]] - [Crise hipertensiva e pneumonia levam Jivago à morte (Oct 1, 2020)](https://platinaline.com/crise-hipertensiva-e-pneumonia-levam-jivago-a-morte/)
+*   [[Platina_Line_2020_Jivago_Obituary|Platina Line]] - [Crise hipertensiva e pneumonia levam Jivago à morte (Oct 1, 2020)](https://platinaline.com/crise-hipertensiva-e-pneumonia-levam-jivago-a-morte/)
     * *Provided the medical context of his death (hypertension and pneumonia) during a tragic year for Angolan music.*
