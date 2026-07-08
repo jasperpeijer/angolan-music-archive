@@ -20,7 +20,7 @@ This archive is a living, open-source project. Angolan music history—especiall
 
 I am actively looking for input, corrections, and collaboration from the community. Your contribution is highly valued if you can help with:
 
-* **Linguistic Translation:** Correcting Kimbundu spelling, translating Umbundu, Chokwe, Lingala or Kikongo lyrics, or explaining historical slang and metaphors.
+* **Linguistic Translation:** Correcting and translating Kimbundu, Umbundu, Chokwe, Lingala or Kikongo lyrics, or explaining historical slang and metaphors.
 * **Transcription:** Transcribing the lyrics of songs in any of the abovementioned languages, and/or Portuguese and French.
 * **Historical Fact-Checking:** Verifying recording dates, band lineups, or providing context that isn't found in academic papers.
 * **Lost Media:** Providing liner notes, photos, or audio files from rare vinyl pressings (like early *N'Gola* or *CDA* labels).
