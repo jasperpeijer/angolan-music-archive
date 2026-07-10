@@ -40,10 +40,10 @@ regional_dialect: "Luanda Kimbundu"
 
 ## 3. Relational Discography
 
-| Track / Album | Year      | Genre       | Lyrical Language | Key Historical Context                                                 |
-| :------------ | :-------- | :---------- | :--------------- | :--------------------------------------------------------------------- |
-| [[Avó Tete]]  | 1983/1984 | `[[Semba]]` | KIM / POR        | Recorded while fronting the band Fenomenal. A satirical look at aging. |
-| [[Ramiro]]    | 1989      | `[[Semba]]` | KIM / POR        | Recorded live at the RNA. Later popularized globally by Paulo Flores.  |
+| Track / Album      | Year | Genre     | Lyrical Language | Key Historical Context |
+| :----------------- | :--- | :-------- | :--------------- | :--------------------- |
+| [[Kiauaba!..]]     | 2008 | [[Semba]] | KIM / POR        |                        |
+| [[Ngueza N'dindi]] | 2020 | [[Semba]] | KIM / POR        |                        |
 
 ---
 

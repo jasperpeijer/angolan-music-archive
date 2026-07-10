@@ -26,8 +26,6 @@ primary_genres:
 
 ## 2. Tracklist
 
-*Link every song name using double brackets to build your database relations. If you haven't created the lyric note yet, the double brackets will create a "stub" link waiting for you.*
-
 | Track # | Title (Link to Lyric Note)                      | Genre     | Primary Language | Status        |
 | :------ | :---------------------------------------------- | :-------- | :--------------- | :------------ |
 | 1       | [[Ngana Burguês]]                               |           |                  | Not Processed |
