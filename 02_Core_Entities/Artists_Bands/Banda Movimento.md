@@ -24,7 +24,7 @@ regional_dialect: Luanda Kimbundu
 
 ---
 
-## 1. Historical & Biographical Trajectory
+## 1. Biography
 
 ### Origins & Formative Years
 In the history of Lusophone-African music, Banda Movimento has played an important role in preserving and sharing Angola's national rhythms. Founded in the late 1990s, the band has spent over two decades performing and documenting the country's acoustic musical heritage. Rather than acting strictly as a commercial group, Banda Movimento operates more like a cultural institution focused on keeping traditional Angolan styles—such as semba, rebita, and cabetula—alive. Through their strong musicianship and their official connection to the national broadcaster, they have helped shape the sound of post-colonial and post-conflict Angola.
@@ -71,7 +71,7 @@ Because of their RNA residency, their network includes the absolute elite of Ang
 
 ---
 
-## 3. Relational Discography
+## 2. Discography
 
 | Album               | Year | Genre                           | Lyrical Language | Key Historical Context |
 | :------------------ | :--- | :------------------------------ | :--------------- | :--------------------- |
@@ -80,7 +80,7 @@ Because of their RNA residency, their network includes the absolute elite of Ang
 
 ---
 
-## 5. Source Ledger
+## 3. Sources
 * [[RNA_2025_Caldo_do_Poeira|Caldo do Poeira]]
 * [[OPais_2024_Banda_Movimento_Prepara|OPais]]
 * [[Tshikonde_2025_Lutas_Sociais|Lutas Sociais - Tshikonde, 2025]]

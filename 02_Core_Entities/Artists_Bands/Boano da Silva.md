@@ -19,7 +19,7 @@ languages_sung:
 
 ---
 
-## 1. Historical & Biographical Trajectory
+## 1. Biography
 Boano António Manuel da Silva was born in the Province of Luanda on March 9, 1937. He identified himself in the Angolan musical context by the stage name **Boano da Silva**, having previously recorded several songs he authored for other labels, which contributed in their own way to the listener's taste.
 
 As a worker and a conscious citizen, Boano da Silva reflects that as the revolutionary process advances in our country, he must necessarily contribute to National Reconstruction. He is enrolled in the O.D.P. (Organization of People's Defense), holding specific responsibilities.
@@ -33,7 +33,7 @@ We leave you here with "Semba Dipanda," the A-side of this single, one of the so
 
 ---
 
-## 2. Relational Discography
+## 2. Discography
 
 | Track                                   | Year  | Genre     | Lyrical Language | Status                         |
 | :-------------------------------------- | :---- | :-------- | :--------------- | :----------------------------- |
@@ -57,6 +57,6 @@ We leave you here with "Semba Dipanda," the A-side of this single, one of the so
 
 ---
 
-## 4. Source Ledger
+## 4. Sources
 * [YouTube](https://www.youtube.com/watch?v=gonugft0VCo&list=RDgonugft0VCo&start_radio=1): Information about artist's life
 * [YouTube](https://www.youtube.com/watch?v=NUCgXJFuYm0&list=RDNUCgXJFuYm0&start_radio=1): cites Boano to be accompanied by [[Jovens do Prenda]]

@@ -57,7 +57,6 @@ primary_genres:
  ![[Pasted image 20260710183743.png]]
 
 ### Public Reception:
-
 (Was it censored? Was it a massive hit in the musseques?)
 
 ---

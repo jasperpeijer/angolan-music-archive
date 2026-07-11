@@ -25,7 +25,7 @@ regional_dialect: "Luanda Kimbundu"
 
 ---
 
-## 1. Historical & Biographical Trajectory
+## 1. Biography
 
 ### Origins & Formative Years
 * Adão Gonçalves was born in the province of Luanda in 1954. 
@@ -38,7 +38,7 @@ regional_dialect: "Luanda Kimbundu"
 
 ---
 
-## 3. Relational Discography
+## 2. Discography
 
 | Album              | Year | Genre     | Lyrical Language | Key Historical Context |
 | :----------------- | :--- | :-------- | :--------------- | :--------------------- |
@@ -47,7 +47,7 @@ regional_dialect: "Luanda Kimbundu"
 
 ---
 
-## 4. Network & Collaborators
+## 3. Network & Collaborators
 
 *   **Bands / Collectives:** `[[Bentiaba Show]]` (1977), `[[Fenomenal]]` (1983)
 *   **Key Collaborators:** `[[Chico Madne]]` (Friend and fellow musician who confirmed his passing to the Angolan press).
@@ -55,7 +55,7 @@ regional_dialect: "Luanda Kimbundu"
 
 ---
 
-## 5. Source Ledger
+## 4. Sources
 *   [[Jornal_o_Guardio_2020_Jivago_Obituary|Jornal o Guardio]] - [Morreu músico Jivago (Oct 1, 2020)](https://jornaloguardiao.com/2020/10/01/morreu-musico-jivago/) 
     * *Obituary confirming birth year, early bands (Bentiaba Show, Fenomenal), and recording dates of his major hits.*
 *   [[Correio_da_Kianda_2020_Jivago_Obituary|Correio da Kianda]] - [Morreu o músico Jivago (Oct 1, 2020)](https://correiokianda.info/morreu-o-musico-jivago/) 
