@@ -1,0 +1,69 @@
+---
+id: album_eddy_tussa_kassembele
+title: Kassembele
+artist: "[[Eddy Tussa]]"
+release_year: "2017"
+record_label: "null"
+recording_location: "null"
+producer: "null"
+primary_genres:
+  - Semba
+---
+
+  
+
+# [[Kassembele]] by [[Eddy Tussa]]
+
+> **Core Summary:** (A 1-2 sentence encapsulation of the album's place in history. e.g., "A definitive 1974 Semba LP that captured the immediate pre-independence euphoria of Luanda.")
+
+
+---
+
+## 1. Historical & Production Context
+
+*Why was this album made, and under what conditions?*
+
+* **The Era:** (Was this recorded during the late colonial period? The civil war? Was the artist in exile?)
+
+* **Production Notes:** (Did they transition from acoustic to electronic instruments here? Who played the backing tracks? e.g., *Backed by the band Os Jovens do Prenda.*)
+
+  
+
+---
+
+## 2. Tracklist
+
+| Track # | Title (Link to Lyric Note)        | Genre       | Primary Language      | Status        | **Notes** |
+| :------ | :-------------------------------- | :---------- | :-------------------- | :------------ | :-------- |
+| 1       | [[Bela Louca]]                    | [[Semba]]   | Portuguese            | Not Processed |           |
+| 2       | [[Muimbo Uami]]                   | [[Semba]]   | Kimbundu              | Not Processed |           |
+| 3       | [[Melinda]]                       | [[Semba]]   | Portuguese            | Not Processed |           |
+| 4       | [[Pequenina]]                     | [[Semba]]   | Kimbundu              | Not Processed |           |
+| 5       | [[Bago a Bago]]                   | [[Plena]]   | Kimbundu              | Not Processed |           |
+| 6       | [[Mbolo Ya Kizua]]                | [[Folk]]    | Kimbundu              | Not Processed |           |
+| 7       | [[Retraro]]                       | [[Folk]]    | Kimbundu              | Not Processed |           |
+| 8       | [[Henda Ya Mamã]]                 | [[Semba]]   | Kimbundu              | Not Processed |           |
+| 9       | [[Diala Diame]]                   | [[Semba]]   | Kimbundu / Portuguese | Not Processed |           |
+| 10      | [[Jabaculé]]                      | [[Kizomba]] | Portuguese            | Not Processed |           |
+| 11      | [[Me Apoixonei]]                  | [[Kizomba]] | Portuguese            | Not Processed |           |
+| 12      | [[Kassembele (Song)\|Kassembele]] | [[Semba]]   | Kimbundu / Portuguese | Not Processed |           |
+| 13      | [[Ambula Ngui Zeca]]              | [[Semba]]   | Kimbundu              | Not Processed |           |
+| 14      | [[Mama Koleno]]                   | [[Semba]]   | Portuguese            | Not Processed |           |
+| 15      | [[Homenagem]]                     | [[Semba]]   | Kimbundu              | Not Processed |           |
+
+---
+
+## 3. Aesthetic & Cultural Impact
+
+### Album Art:
+
+![[Pasted image 20260711155639.png]]
+
+### Public Reception:
+None
+
+---
+
+## 4. Sources
+
+*   **Discography Source:** https://www.discogs.com/release/8490093-Eddy-Tussa-Kassembele
