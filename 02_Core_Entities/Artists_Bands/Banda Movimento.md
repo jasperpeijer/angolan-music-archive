@@ -73,7 +73,7 @@ Because of their RNA residency, their network includes the absolute elite of Ang
 
 ## 3. Relational Discography
 
-| Track / Album       | Year | Genre                           | Lyrical Language | Key Historical Context |
+| Album               | Year | Genre                           | Lyrical Language | Key Historical Context |
 | :------------------ | :--- | :------------------------------ | :--------------- | :--------------------- |
 | [[Espontaneidades]] | 2001 | [[Semba]], [[Rebita]], [[Folk]] | KIM / POR        |                        |
 | [[Kunfungisa]]      | 2003 | [[Semba]]                       | KIM / POR        |                        |

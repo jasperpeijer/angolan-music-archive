@@ -40,7 +40,7 @@ regional_dialect: "Luanda Kimbundu"
 
 ## 3. Relational Discography
 
-| Track / Album      | Year | Genre     | Lyrical Language | Key Historical Context |
+| Album              | Year | Genre     | Lyrical Language | Key Historical Context |
 | :----------------- | :--- | :-------- | :--------------- | :--------------------- |
 | [[Kiauaba!..]]     | 2008 | [[Semba]] | KIM / POR        |                        |
 | [[Ngueza N'dindi]] | 2020 | [[Semba]] | KIM / POR        |                        |
