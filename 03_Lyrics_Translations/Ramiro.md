@@ -136,5 +136,4 @@ The song sits at the heart of the 1980s musical pivot in Angola, where the focus
 * #todo/read-and-cite-moorman-source-on-transition-from-politics-to-comedic-lyrics 
 
 ## 5. Notes
-
 * The song was featured as a track on [[Kiauaba!..]] and as a bonus track on [[Ngueza N'dindi]]

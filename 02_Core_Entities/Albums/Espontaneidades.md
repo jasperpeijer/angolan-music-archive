@@ -35,18 +35,18 @@ primary_genres:
 
 ## 2. Tracklist
 
-| Track # | Title (Link to Lyric Note)                      | Genre      | Primary Language | Status        |
-| :------ | :---------------------------------------------- | :--------- | :--------------- | :------------ |
-| 1       | [[Ngulungo]]                                    | [[Semba]]  | Kimbundu         | Not Processed |
-| 2       | [[A Vida]]                                      | [[Folk]]   | Portuguese       | Not Processed |
-| 3       | [[Ngana Antó]]                                  | [[Semba]]  | Kimbundu         | Not Processed |
-| 4       | [[Maruvu]]                                      | [[Rebita]] | Kimbundu         | Not Processed |
-| 5       | [[Pelenguenha]]                                 | [[Semba]]  | Portuguese       | Not Processed |
-| 6       | [[A Razão do Samba]]                            | [[Semba]]  | Portuguese       | Not Processed |
-| 7       | [[Tá Stalar]]                                   | [[Semba]]  | Kimbundu         | Processed     |
-| 8       | [[Adeus A Hora Da Partida]]                     | [[Folk]]   | Kimbundu         | Not Processed |
-| 9       | [[Zange Boba]]                                  | [[Semba]]  | Kimbundu         | Not Processed |
-| 10      | [[Kibuikila]]                                   | [[Semba]]  | Kimbundu         | Not Processed |
+| Track # | Title (Link to Lyric Note)  | Genre      | Primary Language | Status        |
+| :------ | :-------------------------- | :--------- | :--------------- | :------------ |
+| 1       | [[Ngulungo]]                | [[Semba]]  | Kimbundu         | Not Processed |
+| 2       | [[A Vida]]                  | [[Folk]]   | Portuguese       | Not Processed |
+| 3       | [[Ngana Antó]]              | [[Semba]]  | Kimbundu         | Not Processed |
+| 4       | [[Maruvu]]                  | [[Rebita]] | Kimbundu         | Not Processed |
+| 5       | [[Pelenguenha]]             | [[Semba]]  | Portuguese       | Not Processed |
+| 6       | [[A Razão do Samba]]        | [[Semba]]  | Portuguese       | Not Processed |
+| 7       | [[Tá Stalar]]               | [[Semba]]  | Kimbundu         | Processed     |
+| 8       | [[Adeus A Hora Da Partida]] | [[Folk]]   | Kimbundu         | Not Processed |
+| 9       | [[Zange Boba]]              | [[Semba]]  | Kimbundu         | Not Processed |
+| 10      | [[Kibuikila]]               | [[Semba]]  | Kimbundu         | Processed     |
 
 ---
 

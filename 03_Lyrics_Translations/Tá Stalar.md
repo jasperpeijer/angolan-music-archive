@@ -118,5 +118,4 @@ The title **"Tá Stalar"** captures a specific cultural energy. It is a Luandan 
 * [[AngolaExpert_Mercado_Congolenses|AngolaExpert]]: confirms existence of Congolenses market.
 
 ## 5. Notes
-
 * The song was featured as a track on [[Espontaneidades]].

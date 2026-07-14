@@ -120,4 +120,4 @@ This old song of grief, originally written by [[Boano da Silva]] ([[Pequenina_Bo
 * [Discogs]([https://www.discogs.com/release/3644265-Banda-Movimento-Espontaneidades](https://www.discogs.com/release/13701120-Boano-da-Silva-Pequenina-Ndandu-NGuma)): cites the song as part a vinyl released with 2 songs.
 
 ## 5. Notes
-This song was later interpreted by [[Eddy Tussa]] and turned into a modern version.
+None
