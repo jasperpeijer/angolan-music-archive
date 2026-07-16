@@ -150,8 +150,7 @@ The final verses describe the chaos immediately following the murder. Dona Maria
 * **Genre/Rhythm:** [[Semba]]
 
 ## 4. Sources
-* Wikipedia: For sources about the Bicesse Accords and Lusaka Protocol.
-* peacemaker.un.org: As a source about the Gbadolite peace talks.
+* [[Angola24Horas_2018_Dom_Caetano_Contra|Angola24Horas]]: To confirm Dom Caetano was using an old proverb.
 
 ## 5. Notes
-* The song was featured as a track on [[Estou de Volta]] and originally as a track on [[Espontaneidades]]
+* The song was featured as a track on [[Adão E Eva]].
