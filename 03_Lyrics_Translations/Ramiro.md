@@ -7,7 +7,7 @@ album:
   - "[[Ngueza N'dindi]]"
 year_recorded: "1989"
 primary_languages:
-  - Kimbundu
+  - Portuguese
 translation_status: Translated
 source_audio: https://open.spotify.com/track/0xMXprTxpuNIRSu7KjtLUR?si=418c44cfb290427e
 source_lyrics: https://www.letras.com/jussara-silveira/ramiro/
