@@ -38,7 +38,7 @@ primary_genres:
 | 1       | [[Sembar Com Violão]]      | [[Semba]]             | Portuguese       | Not Processed |                               |
 | 2       | [[Nvula]]                  | [[Semba]]             | Kimbundu         | Not Processed |                               |
 | 3       | [[Ndalivela]]              | [[Folk]]              |                  | Not Processed |                               |
-| 4       | [[Kalumba Yo]]             | [[Semba]] / [[Plena]] | Kimbundu         | Not Processed | Based on song by [[Legalize]] |
+| 4       | [[Kalumba Yo]]             | [[Semba]] / [[Plena]] | Kimbundu         | Not Processed | Based on song by [[David Zé]] |
 | 5       | [[Ta Da Show]]             | [[Semba]]             | Portuguese       | Not Processed |                               |
 | 6       | [[Se Apoderou]]            | [[Plena]]             | Portuguese       | Not Processed |                               |
 | 7       | [[Vou Ficar Fininho]]      | [[Semba]]             | Portuguese       | Not Processed |                               |
