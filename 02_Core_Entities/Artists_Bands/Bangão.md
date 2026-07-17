@@ -45,7 +45,7 @@ Throughout his life, Bangão was celebrated not just as a singer, but as a chron
 | :----------------- | :--- | :------------------------------------------- | :--------------- | :--------------------- |
 | [[Sembele]]        | 1992 | [[Semba]], [[Plena]]                         | KIM              |                        |
 | [[Cuidado]]        | 2004 | [[Semba]], [[Folk]], [[Tchianda]], [[Plena]] | KIM              |                        |
-| [[Estou de Volta]] | 2013 | [[Semba]]                                    | KIM / POR        |                        |
+| [[Estou de Volta]] | 2013 | [[Semba]]                                    | KIM              |                        |
 
 ---
 

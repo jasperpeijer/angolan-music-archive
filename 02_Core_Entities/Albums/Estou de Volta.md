@@ -65,7 +65,7 @@ primary_genres:
 | 2-10    | [[Sabu]]                   | [[Semba]] | Kimbundu         | Not Processed |
 | 2-11    | [[Kibuikila]]              | [[Semba]] | Kimbundu         | Processed     |
 | 2-12    | [[Kinjila]]                | [[Semba]] | Kimbundu         | Not Processed |
-| 2-13    | [[Dioguito]]               | [[Semba]] | Kimbundu         | Not Processed |
+| 2-13    | [[Dioguito]]               | [[Semba]] | Kimbundu         | Processed     |
 | 2-14    | [[Kakixaca]]               | [[Semba]] | Kimbundu         | Not Processed |
 | 2-15    | [[Beiral]]                 | [[Plena]] | Kimbundu         | Not Processed |
 | 2-16    | [[Kambadiami (Extended)]]  | [[Semba]] | Kimbundu         | Not Processed |

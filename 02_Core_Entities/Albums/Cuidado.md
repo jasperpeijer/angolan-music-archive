@@ -47,7 +47,7 @@ primary_genres:
 | 7       | [[Sambito]]                 | [[Semba]]               | Kimbundu         | Not Processed                  |
 | 8       | [[Kakixaca]]                | [[Semba]]               | Kimbundu         | Not Processed                  |
 | 9       | [[Malamba]]                 | [[Semba]], [[Plena]]    | Kimbundu         | Not Processed                  |
-| 10      | [[Dioguito]]                | [[Semba]]               | Kimbundu         | Not Processed                  |
+| 10      | [[Dioguito]]                | [[Semba]]               | Kimbundu         | Processed                      |
 | 11      | [[Beiral]]                  | [[Plena]]               | Kimbundu         | Not Processed                  |
 | 12      | [[Mama]]                    | [[Folk]]                | Kimbundu         | Not Processed                  |
 | 13      | [[Mutu Mukuenu]]            |                         |                  | Not Processed / No Audio Found |
