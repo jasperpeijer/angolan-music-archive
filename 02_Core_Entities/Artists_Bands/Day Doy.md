@@ -45,14 +45,10 @@ His major career breakthrough came through a connection with the late, legendary
 ---
 
 ## 3. Network & Collaborators
-*   **Bands / Collectives:** [[Gingas Kakulo Kalunga]] (1978), [[Tradição]] (1974), [[Processo de África]] (1976–1977), [[Banda Movimento]] (Joined 1999).
-*   **Key Collaborators:**
-	* [[Banda Movimento]]: Instrumental in the success of his major hits, including the award-winning "Kibuikila."
-	* [[Gilberto Gil]]: Collaborated and shared the stage with Bangão during his tours in Brazil.
-	* [[Alaito]] & [[André Lua]]: Fellow musicians and long-time collaborators from his formative years in the group Tradição.
+* **[[Teta Lando]]:** A legendary Angolan musician and crucial early mentor. He recognized Day Doy's talent and facilitated the recording opportunities that launched his professional career, specifically the 1995/1996 _KAMAKA_ project.
+* **[[Trio Kussanguluka]]:** A key collaborative group in Day Doy's career. They featured on the 2002 version of his hit track "Bebucho" and are closely tied to his early experimental trio days that earned him the "Prémio Revelação" from Rádio Luanda.
 
 ---
 
 ## 4. Sources
-* [[Bantumen_2015_Bangao_Morreu|Bantumen]]: Information about his life, and death.
-* [[Wikinoticias_2015_Bangao_Morreu|Wikinotícias]]: Information about his life, and death.
+* [YouTube](https://www.youtube.com/@DayDoyOficial): Information about artist's life.
