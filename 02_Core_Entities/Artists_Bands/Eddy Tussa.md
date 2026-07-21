@@ -51,6 +51,11 @@ The singer is married to Ana Epifánia Francisco António, with whom he has four
 | [[Kassembele]]          | 2017 | [[Semba]]     | KIM / POR        |                        |
 | [[O Príncipe do Semba]] | 2024 | [[Semba]]     | KIM / POR        |                        |
 
+### Other Tracks
+| Track                           | Year                    | Genre     | Lyrical Language | Status    | **Context**                                                             |
+| :------------------------------ | :---------------------- | :-------- | :--------------- | :-------- | :---------------------------------------------------------------------- |
+| [[Monami (Eddy Tussa)\|Monami]] | 2014 (Possibly earlier) | [[Semba]] | KIM              | Processed | Interpretation of [[Monami (Tony do Fumo)\|Monami]] by [[Tony do Fumo]] |
+
 ---
 
 ## 3. Sources

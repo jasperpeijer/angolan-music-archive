@@ -16,12 +16,11 @@ instruments_played: []
 political_alignment:
 languages_sung:
   - Kimbundu
-  - Portuguese
 ---
 
 # [[Tony do Fumo]]
 
-> **Core Summary:** 
+> **Core Summary:** António Filipe Manuel, known professionally as Tony do Fumo, was a foundational pillar of Angolan music who rose to prominence during the 1970s golden era of Angolan music. Recording heavily in Kimbundu, he became synonymous with the Semba and Rebita genres through defining collaborations with legendary backing bands like [[Os Kiezos]] and [[Os Jovens do Prenda]]. Though he has since passed, his cultural legacy is actively maintained and performed today by his son, Tony do Fumo Filho.
 
 ---
 
