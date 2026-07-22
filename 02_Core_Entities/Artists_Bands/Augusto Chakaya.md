@@ -40,9 +40,9 @@ Cultural researchers and government officials alike celebrated him as a pillar o
 ## 2. Discography
 Also see [[Os Jovens do Prenda]] for his discography.
 
-| Album                   | Year | Genre     | Lyrical Language | Key Historical Context |
-| :---------------------- | :--- | :-------- | :--------------- | :--------------------- |
-| [[Karavana da Saudade]] | 2017 | [[Semba]] | KIM              |                        |
+| Album                 | Year | Genre     | Lyrical Language | Key Historical Context |
+| :-------------------- | :--- | :-------- | :--------------- | :--------------------- |
+| [[Quem Procura Acha]] | 2017 | [[Semba]] | KIM              |                        |
 
 
 ---
