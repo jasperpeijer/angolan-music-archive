@@ -33,23 +33,23 @@ primary_genres:
 
 ## 2. Tracklist
 
-| Track # | Title (Link to Lyric Note)        | Genre       | Primary Language      | Status        | **Notes** |
-| :------ | :-------------------------------- | :---------- | :-------------------- | :------------ | :-------- |
-| 1       | [[Bela Louca]]                    | [[Semba]]   | Portuguese            | Not Processed |           |
-| 2       | [[Muimbo Uami]]                   | [[Semba]]   | Kimbundu              | Not Processed |           |
-| 3       | [[Melinda]]                       | [[Semba]]   | Portuguese            | Not Processed |           |
-| 4       | [[Pequenina]]                     | [[Semba]]   | Kimbundu              | Not Processed |           |
-| 5       | [[Bago a Bago]]                   | [[Plena]]   | Kimbundu              | Not Processed |           |
-| 6       | [[Mbolo Ya Kizua]]                | [[Folk]]    | Kimbundu              | Not Processed |           |
-| 7       | [[Retraro]]                       | [[Folk]]    | Kimbundu              | Not Processed |           |
-| 8       | [[Henda Ya Mamã]]                 | [[Semba]]   | Kimbundu              | Not Processed |           |
-| 9       | [[Diala Diame]]                   | [[Semba]]   | Kimbundu / Portuguese | Not Processed |           |
-| 10      | [[Jabaculé]]                      | [[Kizomba]] | Portuguese            | Not Processed |           |
-| 11      | [[Me Apoixonei]]                  | [[Kizomba]] | Portuguese            | Not Processed |           |
-| 12      | [[Kassembele (Song)\|Kassembele]] | [[Semba]]   | Kimbundu / Portuguese | Not Processed |           |
-| 13      | [[Ambula Ngui Zeca]]              | [[Semba]]   | Kimbundu              | Not Processed |           |
-| 14      | [[Mama Koleno]]                   | [[Semba]]   | Portuguese            | Not Processed |           |
-| 15      | [[Homenagem]]                     | [[Semba]]   | Kimbundu              | Not Processed |           |
+| Track # | Title (Link to Lyric Note)                                 | Genre       | Primary Language      | Status        | **Notes** |
+| :------ | :--------------------------------------------------------- | :---------- | :-------------------- | :------------ | :-------- |
+| 1       | [[Bela Louca]]                                             | [[Semba]]   | Portuguese            | Not Processed |           |
+| 2       | [[Muimbo Uami]]                                            | [[Semba]]   | Kimbundu              | Not Processed |           |
+| 3       | [[Melinda]]                                                | [[Semba]]   | Portuguese            | Not Processed |           |
+| 4       | [[03_Lyrics_Translations/Eddy Tussa/Pequenina\|Pequenina]] | [[Semba]]   | Kimbundu              | Not Processed |           |
+| 5       | [[Bago a Bago]]                                            | [[Plena]]   | Kimbundu              | Not Processed |           |
+| 6       | [[Mbolo Ya Kizua]]                                         | [[Folk]]    | Kimbundu              | Not Processed |           |
+| 7       | [[Retraro]]                                                | [[Folk]]    | Kimbundu              | Not Processed |           |
+| 8       | [[Henda Ya Mamã]]                                          | [[Semba]]   | Kimbundu              | Not Processed |           |
+| 9       | [[Diala Diame]]                                            | [[Semba]]   | Kimbundu / Portuguese | Not Processed |           |
+| 10      | [[Jabaculé]]                                               | [[Kizomba]] | Portuguese            | Not Processed |           |
+| 11      | [[Me Apoixonei]]                                           | [[Kizomba]] | Portuguese            | Not Processed |           |
+| 12      | [[Kassembele (Song)\|Kassembele]]                          | [[Semba]]   | Kimbundu / Portuguese | Not Processed |           |
+| 13      | [[Ambula Ngui Zeca]]                                       | [[Semba]]   | Kimbundu              | Not Processed |           |
+| 14      | [[Mama Koleno]]                                            | [[Semba]]   | Portuguese            | Not Processed |           |
+| 15      | [[Homenagem]]                                              | [[Semba]]   | Kimbundu              | Not Processed |           |
 
 ---
 

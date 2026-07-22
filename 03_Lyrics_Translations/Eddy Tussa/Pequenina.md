@@ -20,7 +20,7 @@ tags:
 ---
 
 ## 1. Context & Linguistic Significance
-This old song of grief, originally written by [[Boano da Silva]] ([[Pequenina_Boano_da_Silva|Pequenina - Boano da Silva]]), was interpreted in 2015 by [[Eddy Tussa]] as part of the album [[Kassembele]]. Eddy Tussa stays by the roots of this song by only changing a minor part of the linguistic nuance in some lines (e.g., *Ni jindenge jyami jyaxala* becomes *Jiji jindenge jyami waxala*).
+This old song of grief, originally written by [[Boano da Silva]] ([[03_Lyrics_Translations/Boano da Silva/Pequenina|Pequenina - Boano da Silva]]), was interpreted in 2015 by [[Eddy Tussa]] as part of the album [[Kassembele]]. Eddy Tussa stays by the roots of this song by only changing a minor part of the linguistic nuance in some lines (e.g., *Ni jindenge jyami jyaxala* becomes *Jiji jindenge jyami waxala*).
 
 
 

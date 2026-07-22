@@ -22,7 +22,7 @@ languages_sung:
 
 # [[Eddy Tussa]]
 
-> **Core Summary:** Eddy Tussa is one of the biggest semba artists, of this century. Originally a rap artist, he transitioned into semba music. He is known for making famous hits such as [[Vou Ficar Fininho]] and for remaking old songs such as [[Pequenina_Boano_da_Silva|Pequenina]].
+> **Core Summary:** Eddy Tussa is one of the biggest semba artists, of this century. Originally a rap artist, he transitioned into semba music. He is known for making famous hits such as [[Vou Ficar Fininho]] and for remaking old songs such as [[03_Lyrics_Translations/Boano da Silva/Pequenina|Pequenina]].
 
 ---
 

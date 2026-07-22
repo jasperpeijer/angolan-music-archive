@@ -43,7 +43,7 @@ We leave you here with "Semba Dipanda," the A-side of this single, one of the so
 | [[Rosa]]                                | 1971  | [[Semba]] | Kimbundu         | Not Processed                  |
 | [[NZambi\|N'Zambi]]                     |       |           |                  | Not Processed / No Audio Found |
 | [[Capataz]]                             |       |           |                  | Not Processed / No Audio Found |
-| [[Pequenina_Boano_da_Silva\|Pequenina]] | 1973  | [[Semba]] | Kimbundu         | Processed                      |
+| [[03_Lyrics_Translations/Boano da Silva/Pequenina\|Pequenina]] | 1973  | [[Semba]] | Kimbundu         | Processed                      |
 | [[Ndandu Nguma\|Ndandu N'guma]]         | 1973  | [[Semba]] | Kimbundu         | Not Processed                  |
 
 
