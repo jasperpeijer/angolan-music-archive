@@ -36,7 +36,7 @@ Following his work in transport, he studied journalism and subsequently worked a
 ### Musical Roots and Band Affiliations
 Caetano's musical journey began early. In 1972, at just 16 years old, he took his first steps in singing. His stage debut occurred in 1973, and during the early 1970s in Sambizanga, he formed a group with friends called "The Seven Boys".
 
-His career is deeply intertwined with several historic Angolan musical groups. He is prominently recognized as a second-generation artist of the iconic band [[Jovens do Prenda]], particularly active with them during the 1980s and 90s. In 1987, after two years of deep involvement with Jovens do Prenda, the demands of his musical career forced him to leave journalism behind completely. He also contributed his vocals to other notable groups, though his work with Jovens do Prenda remains a defining element of his musical identity, and he continues to perform with them in modern retrospectives like the "Muzonguê da Tradição".
+His career is deeply intertwined with several historic Angolan musical groups. He is prominently recognized as a second-generation artist of the iconic band [[Os Jovens do Prenda]], particularly active with them during the 1980s and 90s. In 1987, after two years of deep involvement with Jovens do Prenda, the demands of his musical career forced him to leave journalism behind completely. He also contributed his vocals to other notable groups, though his work with Jovens do Prenda remains a defining element of his musical identity, and he continues to perform with them in modern retrospectives like the "Muzonguê da Tradição".
 
 ### Solo Career
 As a solo artist, Dom Caetano recorded his first album, [[Adão E Eva]], in Lisbon. This debut was highly successful, featuring major hit tracks such as [[Uejia Ki Usokana]] and [[Semba Dilema]]. He is also the author of heavily recognized Angolan anthems such as [[Som Angolano]].
@@ -64,11 +64,11 @@ A recognized advocate for artists' rights, Dom Caetano was appointed as the Gene
 *   **Bands / Collectives:**
 	* **[[The Seven Boys (Os Sete Amigos)]]:** Formed in the early 1970s in Sambizanga, this was his first musical group during his formative years.
 	* **[[Conjunto Astros]]:** The band that backed him during his official stage debut in 1973.
-	* **[[Jovens do Prenda]]:** One of Angola's most iconic musical ensembles. Caetano became a core second-generation vocalist for them in the 1980s, eventually leaving his journalism career to sing with them full-time.
+	* **[[Os Jovens do Prenda]]:** One of Angola's most iconic musical ensembles. Caetano became a core second-generation vocalist for them in the 1980s, eventually leaving his journalism career to sing with them full-time.
 	* **[[Banda Movimento]]:** A major collective that actively backed him for live performances and studio work later in his career, particularly during traditional retrospective concerts.
 *   **Key Collaborators:**
 	* **[[Zeca Sá]]:** Maintained a massive 35-year duet partnership ("Dom Caetano e Zeca Sá"). They released joint projects well into their later careers, including the 2018 retrospective album _Memórias 35 Anos_.
-	* **[[Augusto Chacaya]] & [[Calabeto]]:** Fellow legendary _semba_ vocalists. Caetano frequently shares the stage with these contemporaries for traditional music revival events like the _Muzonguê da Tradição_.
+	* **[[Augusto Chakaya]] & [[Calabeto]]:** Fellow legendary _semba_ vocalists. Caetano frequently shares the stage with these contemporaries for traditional music revival events like the _Muzonguê da Tradição_.
 
 ---
 

@@ -35,16 +35,16 @@ We leave you here with "Semba Dipanda," the A-side of this single, one of the so
 
 ## 2. Discography
 
-| Track                                   | Year  | Genre     | Lyrical Language | Status                         |
-| :-------------------------------------- | :---- | :-------- | :--------------- | :----------------------------- |
-| [[Semba Dipanda]]                       | 1970s | [[Semba]] | Kimbundu         | Not Processed                  |
-| [[Revolução 74]]                        | 1970s |           |                  | Not Processed / No Audio Found |
-| [[Panguiami]]                           | 1971  |           |                  | Not Processed / No Audio Found |
-| [[Rosa]]                                | 1971  | [[Semba]] | Kimbundu         | Not Processed                  |
-| [[NZambi\|N'Zambi]]                     |       |           |                  | Not Processed / No Audio Found |
-| [[Capataz]]                             |       |           |                  | Not Processed / No Audio Found |
+| Track                                                          | Year  | Genre     | Lyrical Language | Status                         |
+| :------------------------------------------------------------- | :---- | :-------- | :--------------- | :----------------------------- |
+| [[Semba Dipanda]]                                              | 1970s | [[Semba]] | Kimbundu         | Not Processed                  |
+| [[Revolução 74]]                                               | 1970s |           |                  | Not Processed / No Audio Found |
+| [[Panguiami]]                                                  | 1971  |           |                  | Not Processed / No Audio Found |
+| [[Rosa]]                                                       | 1971  | [[Semba]] | Kimbundu         | Not Processed                  |
+| [[NZambi\|N'Zambi]]                                            |       |           |                  | Not Processed / No Audio Found |
+| [[Capataz]]                                                    |       |           |                  | Not Processed / No Audio Found |
 | [[03_Lyrics_Translations/Boano da Silva/Pequenina\|Pequenina]] | 1973  | [[Semba]] | Kimbundu         | Processed                      |
-| [[Ndandu Nguma\|Ndandu N'guma]]         | 1973  | [[Semba]] | Kimbundu         | Not Processed                  |
+| [[Ndandu Nguma\|Ndandu N'guma]]                                | 1973  | [[Semba]] | Kimbundu         | Not Processed                  |
 
 
 ---
@@ -59,4 +59,4 @@ We leave you here with "Semba Dipanda," the A-side of this single, one of the so
 
 ## 4. Sources
 * [YouTube](https://www.youtube.com/watch?v=gonugft0VCo&list=RDgonugft0VCo&start_radio=1): Information about artist's life
-* [YouTube](https://www.youtube.com/watch?v=NUCgXJFuYm0&list=RDNUCgXJFuYm0&start_radio=1): cites Boano to be accompanied by [[Jovens do Prenda]]
+* [YouTube](https://www.youtube.com/watch?v=NUCgXJFuYm0&list=RDNUCgXJFuYm0&start_radio=1): cites Boano to be accompanied by [[Os Jovens do Prenda]]

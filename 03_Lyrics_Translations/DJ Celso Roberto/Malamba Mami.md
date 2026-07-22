@@ -1,14 +1,16 @@
 ---
-id: track_jovens_do_prenda_mama_ubheka
-title: Mama Ubheka
+id: track_jovens_do_prenda_malamba_mami
+title: Malamba Mami
 artist:
-  - "[[Os Jovens do Prenda]]"
+  - "[[DJ Celso Roberto]]"
+  - "[[Augusto Chakaya]]"
 album:
+  - "[[Karavana da Saudade]]"
 year_recorded:
 primary_languages:
   - Kimbundu
 translation_status: Translated
-source_audio: https://www.youtube.com/watch?v=vpp-LnyKxGc
+source_audio: https://open.spotify.com/track/7wZXiI8Ur6svF2ioHvDz3u?si=42aa31d0d37348e1
 source_lyrics:
   - https://www.youtube.com/watch?v=7BWUPogH330
 source_translation:
@@ -16,21 +18,16 @@ source_translation:
 tags:
 ---
 
-# Malamba Mami / Mama Ubheka by [[Os Jovens do Prenda]]
+# Malamba Mami by [[DJ Celso Roberto]] & [[Augusto Chakaya]]
 
-> **Thematic Core:** *Mama Ubheka* by [[Os Jovens do Prenda]] is a track about a person dealing with intense physical and emotional isolation. Feeling entirely abandoned and convinced their peers secretly wish them harm, the narrator decides that being completely alone (_ubheka_) is better than dealing with fake friends.
+> **Thematic Core:** Released in 2017, this modernized version of *Malamba Mami* pairs original [[Os Jovens do Prenda]] vocalist [[Augusto Chakaya]] with producer [[DJ Celso Roberto]]. The track preserves the original's heavy lyrics about institutional isolation and abandonment while reimagining the instrumental into a contemporary Angolan dance track.
 
 ---
 
 ## 1. Context & Linguistic Significance
-While the song might initially sound like a general complaint about a bad social circle, specific Kimbundu clues point to a story of forced physical confinement (likely a hospital, sanatorium, or prison). The narrator isn't just choosing to stay away from people; they have been locked away and forgotten.
+Featured on DJ Celso Roberto's 2017 project _Karavana da Saudade_, this remake serves as a generational bridge in Angolan music. By bringing in Augusto Chakaya—one of the classic vocalists from Os Jovens do Prenda's later eras—the track grounds itself in historical authenticity while updating the sound for modern dancefloors.
 
-This interpretation is supported by several literal statements in the text:
-* **Forced Confinement:** The narrator states, _"Angiambe kinge nutunde"_ (They tell me not to go out), and anticipates a future release with, _"Oh kyoso ngitunda"_ (As soon as I get out).
-* **Medical Treatment:** The use of the reflexive verb in _"Phala kuya kudisaka"_ (Because I am going to be treated / heal myself) strongly points to medical isolation or hospitalization.
-* **Institutional Abandonment:** The line _"Ngeniami makamba ngimonami mutu ngisoneka"_ (I don't have friends to visit or write me) is the harsh reality of someone institutionalized who realizes their friends have moved on without them.
-
-In this context, the narrator's anger makes sense: when they were removed from society and placed in a facility, no one came to check on them. This leads to their final decision to cut those people off entirely once they are released.
+Because the lyrics remain completely unchanged, this version creates a sharp thematic contrast. The words still tell a dark, literal story of someone locked away in isolation, realizing their friends have abandoned them and choosing permanent solitude. However, placed over DJ Celso Roberto's upbeat production, the track transforms that bitter realization into an anthem.
 
 ---
 
@@ -38,7 +35,7 @@ In this context, the narrator's anger makes sense: when they were removed from s
 
 | Original Line                                   | Lang | Translation (PT / EN)                                                                                                                | Annotations & Metaphors                                                                                                                                                                  |
 | :---------------------------------------------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *Ki ngibanza malamba mami muxima ungikata*      | KIM  | **PT:** Quando penso nos problemas, o coração dói<br>**EN:** When I think about my problems, I feel pain in my heart                 | _Malamba_ refers to troubles, misfortunes, or suffering.<br><br>_Muxima_ (heart) + _ungikata_ (hurts me, from _kukata_ = to be sick/hurt).                                               |
+| *Ki ngibanza malamba mami muxima ungikata mama* | KIM  | **PT:** Quando penso nos problemas, o coração dói, oh mãe<br>**EN:** When I think about my problems, I feel pain in my heart, oh mom | _Malamba_ refers to troubles, misfortunes, or suffering.<br><br>_Muxima_ (heart) + _ungikata_ (hurts me, from _kukata_ = to be sick/hurt).                                               |
 | *Ngikwata kudingongena*                         | KIM  | **PT:** Fico a matutar<br>**EN:** I stay wondering                                                                                   |                                                                                                                                                                                          |
 | *Mutwe ungikata we*                             | KIM  | **PT:** E a cabeça me dói<br>**EN:** And my head hurts                                                                               | _Mutwe_ (head).<br>_Ungikata_ (hurts me).<br><br>_We_ acts as an emphasis particle meaning "too" or "also."                                                                              |
 | *O kiki*                                        | KIM  | **PT:** Aqui<br>**EN:** Here                                                                                                         | Literally "this here" or "right here."                                                                                                                                                   |
@@ -74,8 +71,8 @@ In this context, the narrator's anger makes sense: when they were removed from s
 | *Ngala bobha ngene ni ubheka*                   | KIM  | **PT:** Aqui estou sozinho<br>**EN:** Here I am alone                                                                                |                                                                                                                                                                                          |
 | *Ni malamba mami ku muxima*                     | KIM  | **PT:** Com os meus problemas no coração<br>**EN:** With problems in my heart                                                        |                                                                                                                                                                                          |
 | *Oh kyoso ngitunda*                             | KIM  | **PT:** Assim que sair<br>**EN:** As soon as I get out                                                                               | _Kyoso_ (when / as soon as) + _kutunda_ (to exit / leave).                                                                                                                               |
-| *Ngandalami kungisota*                          | KIM  | **PT:** Não me procurem<br>**EN:** Don't come looking for me                                                                         | _Kusota_ is the verb for to look for, search, or seek.                                                                                                                                   |
 | *Ngandalami kungizwela*                         | KIM  | **PT:** Não falem comigo<br>**EN:** Do not speak to me                                                                               | _Kuzwela_ is the verb for to speak or converse.                                                                                                                                          |
+| *Ngandalami kungisota*                          | KIM  | **PT:** Não me procurem<br>**EN:** Don't come looking for me                                                                         | _Kusota_ is the verb for to look for, search, or seek.                                                                                                                                   |
 | *Mukonda nwangikanenu o kufwe*                  | KIM  | **PT:** Porque vocês me desejam a morte<br>**EN:** Because you wish me dead                                                          | _Mukonda_ (because).<br><br>_Kufwe_ derives from the root verb _kufwa_ (to die).                                                                                                         |
 | *Ooooo*                                         | KIM  | **PT:** Ooooo<br>**EN:** Ooooo                                                                                                       |                                                                                                                                                                                          |
 | *Ngandalami makamba ma falasa*                  | KIM  | **PT:** Não quero amigos falsos<br>**EN:** I don't want fake friends                                                                 |                                                                                                                                                                                          |
@@ -85,14 +82,6 @@ In this context, the narrator's anger makes sense: when they were removed from s
 | *Kota ngene ni ubheka*                          | KIM  | **PT:** É melhor ficar sozinho<br>**EN:** Stay alone                                                                                 |                                                                                                                                                                                          |
 | *Ooooo mama*                                    | KIM  | **PT:** Ooooo<br>**EN:** Ooooo                                                                                                       |                                                                                                                                                                                          |
 | *Ngandalami kukala ni jinguma*                  | KIM  | **PT:** E não quero inimigos<br>**EN:** And I don't want enemies                                                                     |                                                                                                                                                                                          |
-| *Sim!*                                          | KIM  | **EN:** Yeah!                                                                                                                        | Vocalization                                                                                                                                                                             |
-| *Ngeniami makamba ngimonami mutu ngisoneka*     | KIM  | **PT:** Não tenho amigos para me ver nem para escrever<br>**EN:** I don't have friends to visit or write me                          |                                                                                                                                                                                          |
-| *Ngala bobha ngene ni ubheka*                   | KIM  | **PT:** Aqui estou sozinho<br>**EN:** Here I am alone                                                                                |                                                                                                                                                                                          |
-| *Ni malamba mami ku muxima*                     | KIM  | **PT:** Com os meus problemas no coração<br>**EN:** With problems in my heart                                                        |                                                                                                                                                                                          |
-| *Oh kyoso ngitunda*                             | KIM  | **PT:** Assim que sair<br>**EN:** As soon as I get out                                                                               |                                                                                                                                                                                          |
-| *Nganalami kungisota*                           | KIM  | **PT:** Não me procurem<br>**EN:** Don't come looking for me                                                                         |                                                                                                                                                                                          |
-| *Ngandalami kungizwela*                         | KIM  | **PT:** Não falem comigo<br>**EN:** Do not speak to me                                                                               |                                                                                                                                                                                          |
-| *Mukonda nwangikanenu o kufwe*                  | KIM  | **PT:** Porque vocês me desejam a morte<br>**EN:** Because you wish me dead                                                          |                                                                                                                                                                                          |
 | *Ooooo*                                         | KIM  | **PT:** Ooooo<br>**EN:** Ooooo                                                                                                       |                                                                                                                                                                                          |
 | *Ngandalami makamba ma falasa*                  | KIM  | **PT:** Não quero amigos falsos<br>**EN:** I don't want fake friends                                                                 |                                                                                                                                                                                          |
 | *Ooooo mama*                                    | KIM  | **PT:** Ooooo<br>**EN:** Ooooo                                                                                                       |                                                                                                                                                                                          |
@@ -101,7 +90,7 @@ In this context, the narrator's anger makes sense: when they were removed from s
 | *Kota ngene ni ubheka*                          | KIM  | **PT:** É melhor ficar sozinho<br>**EN:** Stay alone                                                                                 |                                                                                                                                                                                          |
 | *Ooooo mama*                                    | KIM  | **PT:** Ooooo<br>**EN:** Ooooo                                                                                                       |                                                                                                                                                                                          |
 | *Ngandalami kukala ni jinguma*                  | KIM  | **PT:** E não quero inimigos<br>**EN:** And I don't want enemies                                                                     |                                                                                                                                                                                          |
-| *Sim!*                                          | KIM  | **EN:** Yeah!                                                                                                                        | Vocalization                                                                                                                                                                             |
+
 
 
 ---
