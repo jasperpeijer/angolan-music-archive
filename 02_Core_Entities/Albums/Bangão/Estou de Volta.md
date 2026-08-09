@@ -46,7 +46,7 @@ primary_genres:
 | 1-8     | [[Têtê]]                   | [[Folk]]  | Kimbundu         | Not Processed |
 | 1-9     | [[Fonseca]]                | [[Semba]] | Kimbundu         | Not Processed |
 | 1-10    | [[Mãe]]                    | [[Semba]] | Kimbundu         | Not Processed |
-| 1-11    | [[Ingu]]                   | [[Semba]] | Kimbundu         | Not Processed |
+| 1-11    | [[Ingu]]                   | [[Semba]] | Kimbundu         | Processed     |
 | 1-12    | [[Garina do Sweegue]]      | [[Semba]] | Kimbundu         | Not Processed |
 | 1-13    | [[Mavu]]                   | [[Plena]] | Kimbundu         | Not Processed |
 | 1-14    | [[Mama]]                   | [[Folk]]  | Kimbundu         | Not Processed |
