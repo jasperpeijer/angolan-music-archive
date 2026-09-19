@@ -4,7 +4,8 @@ title: Zeca
 artist:
   - "[[Nany]]"
 album:
-year_recorded: "2025"
+  - "[[Chegou de Longe]]"
+year_recorded: "1995"
 primary_languages:
   - Kikongo
 translation_status: Translated
